@@ -7,14 +7,20 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100vh;
+    display: flex;
     
 }
 
 .card{
     width: 500px;
     background-color: rgb(254, 254, 254);
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 }
 .boton{
     color:white;
+    
    
 }
